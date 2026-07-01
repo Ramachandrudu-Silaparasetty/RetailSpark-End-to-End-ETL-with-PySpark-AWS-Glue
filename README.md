@@ -216,7 +216,7 @@ Retail-Data-Engineering/
 
 ## 🏗️ Project Architecture
 
-![Project Architecture](docs/Architecture.png)
+![Project Architecture](docs/Retail_Data_Engineering_Architecture.drawio.png)
 
 ---
 
@@ -228,7 +228,7 @@ Retail-Data-Engineering/
 
 ## 🔄 AWS Glue Workflow
 
-![Glue Workflow](screenshots/11_Glue_Workflow.png)
+![Glue Workflow](screenshots/11_Glue_workflow.png)
 
 ---
 
