@@ -292,4 +292,4 @@ Retail-Data-Engineering/
 
 **Ramachandrudu Silaparasetty**
 
-Aspiring Data Engineer | PySpark | SQL | AWS Glue | Hadoop | Hive | ETL
+Data Engineer | PySpark | SQL | AWS Glue | Hadoop | Hive | ETL
