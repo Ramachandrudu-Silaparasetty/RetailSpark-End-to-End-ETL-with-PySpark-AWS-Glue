@@ -264,7 +264,7 @@ Retail-Data-Engineering/
 
 ## 🚀 Spark UI - Jobs
 
-![Spark Jobs](screenshots/08_Glue_Spark_UI.png)
+![Spark Jobs](screenshots/08_Glue_spark_ui.png)
 
 ---
 
