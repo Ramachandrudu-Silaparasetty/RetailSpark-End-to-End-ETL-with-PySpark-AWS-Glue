@@ -246,7 +246,7 @@ Retail-Data-Engineering/
 
 ## 🥉 Bronze Layer
 
-![Bronze Layer](screenshots/04_Bronze_Layer.png)
+![Bronze Layer](screenshots/04_Bronze_layer.png)
 
 ---
 
@@ -258,7 +258,7 @@ Retail-Data-Engineering/
 
 ## 🥇 Gold Layer
 
-![Gold Layer](screenshots/06_S3Bucket_Gold_Layer.png)
+![Gold Layer](screenshots/06_S3Bucket_Gold_layer.png)
 
 ---
 
