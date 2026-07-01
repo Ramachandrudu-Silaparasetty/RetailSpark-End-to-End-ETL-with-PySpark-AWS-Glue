@@ -212,7 +212,71 @@ Retail-Data-Engineering/
 ```
 
 ---
+# 📸 Project Screenshots
 
+## 🏗️ Project Architecture
+
+![Project Architecture](docs/Architecture.png)
+
+---
+
+## ☁️ AWS Glue Job - Successful Execution
+
+![AWS Glue Job](screenshots/01_Glue_Job_Succeeded.png)
+
+---
+
+## 🔄 AWS Glue Workflow
+
+![Glue Workflow](screenshots/11_Glue_Workflow.png)
+
+---
+
+## ⚡ Amazon EventBridge Rule
+
+![EventBridge Rule](screenshots/10_Event_Rule_RetailSales_Auto_ETL.png)
+
+---
+
+## 🗂️ Amazon S3 Bucket Structure
+
+![S3 Structure](screenshots/03_S3_Buckets.png)
+
+---
+
+## 🥉 Bronze Layer
+
+![Bronze Layer](screenshots/04_Bronze_Layer.png)
+
+---
+
+## 🥈 Silver Layer
+
+![Silver Layer](screenshots/05_S3_Silver_orders.png)
+
+---
+
+## 🥇 Gold Layer
+
+![Gold Layer](screenshots/06_S3Bucket_Gold_Layer.png)
+
+---
+
+## 🚀 Spark UI - Jobs
+
+![Spark Jobs](screenshots/08_Glue_Spark_UI.png)
+
+---
+
+## 📊 Spark UI - Stages
+
+![Spark Stages](screenshots/Spark_UI_Stages.png)
+
+---
+
+## ⚙️ Spark UI - Executors
+
+![Spark Executors](screenshots/Spark_UI_Executors.png)
 ## Key Learning Outcomes
 
 - Designed an end-to-end ETL pipeline
